@@ -1,0 +1,15 @@
+E:\Nin-IT\C#-Project\Assignment_Day5\C#_File\C#_Assign2\bin\Debug\net7.0\C#_Assign2.exe
+E:\Nin-IT\C#-Project\Assignment_Day5\C#_File\C#_Assign2\bin\Debug\net7.0\C#_Assign2.deps.json
+E:\Nin-IT\C#-Project\Assignment_Day5\C#_File\C#_Assign2\bin\Debug\net7.0\C#_Assign2.runtimeconfig.json
+E:\Nin-IT\C#-Project\Assignment_Day5\C#_File\C#_Assign2\bin\Debug\net7.0\C#_Assign2.dll
+E:\Nin-IT\C#-Project\Assignment_Day5\C#_File\C#_Assign2\bin\Debug\net7.0\C#_Assign2.pdb
+E:\Nin-IT\C#-Project\Assignment_Day5\C#_File\C#_Assign2\obj\Debug\net7.0\C#_Assign2.csproj.AssemblyReference.cache
+E:\Nin-IT\C#-Project\Assignment_Day5\C#_File\C#_Assign2\obj\Debug\net7.0\C#_Assign2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nin-IT\C#-Project\Assignment_Day5\C#_File\C#_Assign2\obj\Debug\net7.0\C#_Assign2.AssemblyInfoInputs.cache
+E:\Nin-IT\C#-Project\Assignment_Day5\C#_File\C#_Assign2\obj\Debug\net7.0\C#_Assign2.AssemblyInfo.cs
+E:\Nin-IT\C#-Project\Assignment_Day5\C#_File\C#_Assign2\obj\Debug\net7.0\C#_Assign2.csproj.CoreCompileInputs.cache
+E:\Nin-IT\C#-Project\Assignment_Day5\C#_File\C#_Assign2\obj\Debug\net7.0\C#_Assign2.dll
+E:\Nin-IT\C#-Project\Assignment_Day5\C#_File\C#_Assign2\obj\Debug\net7.0\refint\C#_Assign2.dll
+E:\Nin-IT\C#-Project\Assignment_Day5\C#_File\C#_Assign2\obj\Debug\net7.0\C#_Assign2.pdb
+E:\Nin-IT\C#-Project\Assignment_Day5\C#_File\C#_Assign2\obj\Debug\net7.0\C#_Assign2.genruntimeconfig.cache
+E:\Nin-IT\C#-Project\Assignment_Day5\C#_File\C#_Assign2\obj\Debug\net7.0\ref\C#_Assign2.dll
